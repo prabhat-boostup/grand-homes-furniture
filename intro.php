@@ -1088,7 +1088,7 @@
 
         <!-- footer area start -->
         <?php
-            include("includes/footer.php");
+            include("includes/mainFooter.php");
         ?>
         <!-- footer area end -->
         
