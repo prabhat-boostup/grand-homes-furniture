@@ -46,15 +46,15 @@
                                 </ul>
                                 <div class="tab-content">
                                     <div class="tab-pane fade show active" id="apart-tap1">
-                                        <p>Indochine has worked on projects nationwide and worldwide, designs that make magic happen, without the wand. focuses more on structural design, whereas interior design is the practice of creating interior atmosphere.</p>
-                                        <p>Indochine has worked on projects nationwide and worldwide, designs that make magic happen, without the wand. focuses more on structural design, whereas interior design is the practice of creating interior atmosphere.</p>
+                                        <p>At Our GrandHomes Furniture, we believe furniture is more than just décor—it’s an experience. From concept to creation, we design pieces that add character, comfort, and elegance to every corner of your home.</p>
+                                        <p>Our GrandHomes Furniture is dedicated to creating luxurious, thoughtfully designed furniture that defines modern living. With attention to detail and superior materials, we turn everyday spaces into extraordinary experiences.</p>
                                     </div>
                                     <div class="tab-pane fade" id="apart-tap2">
-                                        <p>Indochine has worked on projects nationwide and worldwide, designs that make magic happen, without the wand. focuses more on structural design, whereas interior design is the practice of creating interior atmosphere.</p>
+                                        <p>Our mission is to transform houses into homes by designing furniture that suits your lifestyle, taste, and needs. We strive to provide personalized solutions, exceptional service, and products that bring lasting comfort and happiness.</p>
                                     </div>
                                     <div class="tab-pane fade" id="apart-tap3">
-                                        <p>Indochine has worked on projects nationwide and worldwide, designs that make magic happen, without the wand.</p>
-                                        <p>Indochine has worked on projects nationwide and worldwide, designs that make magic happen, without the wand. focuses more on structural design, whereas interior design is the practice of creating interior atmosphere.</p>
+                                        <p>Our vision is to set new standards in furniture design by combining creativity, craftsmanship, and innovation.</p>
+                                        <p>Our vision is to become a trusted name in furniture design by delivering innovative, high-quality products that inspire modern living and redefine comfort in every home, office, building and in people's hearts.</p>
                                     </div>
                                 </div>
                             </div>
@@ -315,42 +315,39 @@
                         <div class="timeline-images wow fadeInLeft delay-0-2s">
                             <div class="content" style="background-image: url(assets/images/background/faq.png);">
                                 <div class="faq-text">
-                                   <span class="h5 title mb-32">When is the right time to design your lovely home?</span>
-                                   <h6 class="mb-32">Lorem Ipsum is simply dummy text of the printing industry. It was recently with desktop publishing software</h6>
-                                   <p>Lorem Ipsum is simply dummy text of the printing industry. It was more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                                   <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
+                                   <span class="h5 title mb-32">What materials do you use?</span>
+                                   <h6 class="mb-32">We use premium materials such as solid wood, engineered wood, high-quality laminates, fabrics, and durable hardware to ensure long-lasting performance.</h6>
+                                   <p>Each material is carefully selected for strength, finish, and durability. This allows us to create furniture that not only looks elegant but also stands up to everyday use over time.</p>
                                </div>
                             </div>
                             <div class="content" style="background-image: url(assets/images/background/faq.png);">
                                 <div class="faq-text">
-                                   <span class="h5 title mb-32">What are the considerations of interior design?</span>
-                                   <h6 class="mb-32">Lorem Ipsum is simply dummy text of the printing industry. It was recently with desktop publishing software</h6>
-                                   <p>Lorem Ipsum is simply dummy text of the printing industry. It was more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                                   <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
+                                   <span class="h5 title mb-32">How long does the process take?</span>
+                                   <h6 class="mb-32">The complete process typically takes 2–6 weeks, depending on the complexity and level of customization involved.</h6>
+                                   <p>We follow a structured workflow from design approval to final production, ensuring timely delivery without compromising on quality or craftsmanship.</p>
+                                   <!-- <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p> -->
                                </div>
                             </div>
                             <div class="content" style="background-image: url(assets/images/background/faq.png);">
                                 <div class="faq-text">
-                                   <span class="h5 title mb-32">How do I prepare for an interior designer meeting?</span>
-                                   <h6 class="mb-32">Lorem Ipsum is simply dummy text of the printing industry. It was recently with desktop publishing software</h6>
-                                   <p>Lorem Ipsum is simply dummy text of the printing industry. It was more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                                   <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
+                                   <span class="h5 title mb-32">Do you offer customized furniture?</span>
+                                   <h6 class="mb-32">Yes, we specialize in customized furniture tailored to your space, style, and requirements. You can choose materials, finishes, sizes, and designs to match your vision.</h6>
+                                   <p>Our customization process ensures every piece fits perfectly into your space. We consider layout, functionality, and aesthetics to deliver furniture that feels truly personalized and unique.</p>
                                </div>
                             </div>
                             <div class="content" style="background-image: url(assets/images/background/faq.png);">
                                 <div class="faq-text">
-                                   <span class="h5 title mb-32">How do you work cross-functionally with developers, copywriters, project managers, etc.?</span>
-                                   <h6 class="mb-32">Lorem Ipsum is simply dummy text of the printing industry. It was recently with desktop publishing software</h6>
-                                   <p>Lorem Ipsum is simply dummy text of the printing industry. It was more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                                   <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
+                                   <span class="h5 title mb-32">Do you provide design previews?</span>
+                                   <h6 class="mb-32">Yes, we provide detailed designs and 3D visualizations so you can see your furniture before production begins.</h6>
+                                   <p>This step helps you make confident decisions by visualizing the final outcome. You can request changes and refinements to ensure everything matches your expectations.</p>
                                </div>
                             </div>
                             <div class="content" style="background-image: url(assets/images/background/faq.png);">
                                 <div class="faq-text">
-                                   <span class="h5 title mb-32">Tell me about the projects you're most proud of and why?</span>
-                                   <h6 class="mb-32">Lorem Ipsum is simply dummy text of the printing industry. It was recently with desktop publishing software</h6>
-                                   <p>Lorem Ipsum is simply dummy text of the printing industry. It was more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                                   <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
+                                   <span class="h5 title mb-32">Do you handle delivery and installation?</span>
+                                   <h6 class="mb-32">Yes, we offer safe delivery and professional installation services at your location.</h6>
+                                   <p>Our team ensures hassle-free setup, proper placement, and finishing so your furniture is ready to use without any inconvenience.</p>
+                                   
                                </div>
                             </div>
                         </div>

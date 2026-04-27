@@ -51,8 +51,8 @@
                         <div class="pro-02-item">
                             <div class="pro-02-images pro-02-images-1">
                                 <div class="image-container">
-                                    <img class="image-before slider-image" src="assets/images/projects-02/1-before.png" alt="Apartment">
-                                    <img class="image-after slider-image" src="assets/images/projects-02/1-after.jpg" alt="Apartment">
+                                    <img class="image-before slider-image" src="assets/images/projects-02/1-before.webp" alt="Apartment">
+                                    <img class="image-after slider-image" src="assets/images/projects-02/1-after.webp" alt="Apartment">
                                 </div>
                                 <input type="range" min="0" max="100" value="50" class="buttonslider buttonslider1" aria-label="percentage of before photo shown">
                                 <div class="slider-line"></div>
@@ -67,8 +67,8 @@
                         <div class="mb-128 pro-02-item col-sm-4 col-lg-4 item BEDROOM">
                             <div class="pro-02-images pro-02-images-2">
                                 <div class="image-container">
-                                    <img class="image-before slider-image" src="assets/images/projects-02/2-before.png" alt="Apartment">
-                                    <img class="image-after slider-image" src="assets/images/projects-02/2-after.jpg" alt="Apartment">
+                                    <img class="image-before slider-image" src="assets/images/projects-02/2-before.webp" alt="Apartment">
+                                    <img class="image-after slider-image" src="assets/images/projects-02/2-after.webp" alt="Apartment">
                                 </div>
                                 <input type="range" min="0" max="100" value="50" class="buttonslider buttonslider2" aria-label="percentage of before photo shown">
                                 <div class="slider-line"></div>
@@ -81,8 +81,8 @@
                         <div class="mb-128 pro-02-item col-sm-4 col-lg-4 item BEDROOM">
                             <div class="pro-02-images pro-02-images-3">
                                 <div class="image-container">
-                                    <img class="image-before slider-image" src="assets/images/projects-02/3-before.png" alt="Apartment">
-                                    <img class="image-after slider-image" src="assets/images/projects-02/3-after.jpg" alt="Apartment">
+                                    <img class="image-before slider-image" src="assets/images/projects-02/2-before.webp" alt="Apartment">
+                                    <img class="image-after slider-image" src="assets/images/projects-02/2-after.webp" alt="Apartment">
                                 </div>
                                 <input type="range" min="0" max="100" value="50" class="buttonslider buttonslider3" aria-label="percentage of before photo shown">
                                 <div class="slider-line"></div>
@@ -95,8 +95,8 @@
                         <div class="mb-128 pro-02-item col-sm-4 col-lg-4 item BATHROOM">
                             <div class="pro-02-images pro-02-images-4">
                                 <div class="image-container">
-                                    <img class="image-before slider-image" src="assets/images/projects-02/4-before.png" alt="Apartment">
-                                    <img class="image-after slider-image" src="assets/images/projects-02/4-after.jpg" alt="Apartment">
+                                    <img class="image-before slider-image" src="assets/images/projects-02/2-before.webp" alt="Apartment">
+                                    <img class="image-after slider-image" src="assets/images/projects-02/2-after.webp" alt="Apartment">
                                 </div>
                                 <input type="range" min="0" max="100" value="50" class="buttonslider buttonslider4" aria-label="percentage of before photo shown">
                                 <div class="slider-line"></div>

@@ -193,7 +193,7 @@
                                     <p class="fadeInUp delay-0-2s animated">Each piece is crafted with attention to detail, ensuring long-lasting quality and customer satisfaction. Our mission is simple — to turn wood into timeless pieces that add value to your everyday living.</p>
                                 </div>
                                 <div>
-                                    <img class="big-image zoomIn animated" src="assets/images/about/2.png" alt="hero image" title="hero image">
+                                    <img class="big-image fadeInRight animated delay-0-1s" src="assets/images/about/2.png" alt="hero image" title="hero image">
                                     <p class="p-rotate">OUR MISSION</p>
                                     <h1 class="number">2</h1>
                                 </div> 
@@ -210,7 +210,7 @@
                                     <p class=" fadeInUp delay-0-2s animated">With a strong focus on customer satisfaction, we strive to build long-term relationships by providing reliable, customized solutions that meet the evolving needs of our customers.</p>
                                 </div>
                                 <div>
-                                    <img class="big-image  zoomIn animated" src="assets/images/about/3.png" alt="hero image" title="hero image">
+                                    <img class="big-image  fadeInRight animated delay-0-1s" src="assets/images/about/3.png" alt="hero image" title="hero image">
                                     <p class="p-rotate">OUR VISSION</p>
                                     <h1 class="number">3</h1>
                                 </div>
@@ -824,34 +824,29 @@
                                 <div class="icon h2">01</div>
                                 
                             </div>
-                            <div class="timeline-item">
-                                <img class="ishow" src="assets/images/work-process/ruler.png" alt="ruler image">
-                                <img class="ifade" src="assets/images/work-process/ruler-3.png" alt="ruler image">
-                                <div class="icon h2">02</div>
-                                
-                           </div>
+                            
                            <div class="timeline-item">
                                 <img class="ishow" src="assets/images/work-process/ruler.png" alt="ruler image">
                                 <img class="ifade" src="assets/images/work-process/ruler-3.png" alt="ruler image">
-                                <div class="icon h2">03</div>
+                                <div class="icon h2">02</div>
                                                       
                            </div>
                             <div class="timeline-item">
                                 <img class="ishow" src="assets/images/work-process/ruler.png" alt="ruler image">
                                 <img class="ifade" src="assets/images/work-process/ruler-3.png" alt="ruler image">
-                                <div class="icon h2">04</div>
+                                <div class="icon h2">03</div>
                                
                             </div>
                             <div class="timeline-item">
                                 <img class="ishow" src="assets/images/work-process/ruler.png" alt="ruler image">
                                 <img class="ifade" src="assets/images/work-process/ruler-3.png" alt="ruler image">
-                                <div class="icon h2">05</div>
+                                <div class="icon h2">04</div>
                                
                            </div>
                            <div class="timeline-item">
                             <img class="ishow" src="assets/images/work-process/ruler.png" alt="ruler image">
                             <img class="ifade" src="assets/images/work-process/ruler-3.png" alt="ruler image">
-                                <div class="icon h2">06</div>
+                                <div class="icon h2">05</div>
                                
                            </div>
                        </div>
@@ -861,42 +856,36 @@
                             <div>
                                 <div class="content">
                                    <span class="h5 title">IDEAS</span>
-                                   <p class="description">Problem statement, document, client review and approval. Lorem ipsum dolor sit  amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                                   <p class="description">Every great piece begins with a vision. In this stage, we understand your needs, preferences, and lifestyle to generate creative concepts that align with your space and personality.</p>
                                </div>
                                 <img src="assets/images/work-process/1.jpg" alt="Timeline">
                             </div>
-                            <div>
-                                <div class="content">
-                                   <span class="h5 title">CONCEPT</span>
-                                   <p class="description">Find out  your design ambitions. Your timescales, budgets. Build a detailed brief. Identify your design preferences. Develop architectural layouts for your property. Design styles and influences. Create renders and early 3D models describing the volumetric aspects of the design.</p>
-                               </div>
-                                <img src="assets/images/work-process/2.jpg" alt="Timeline">
-                            </div>
+                            
                             <div>
                                 <div class="content">
                                    <span class="h5 title">DESIGN</span>
-                                   <p class="description">Drawings, scaled floor plans showing furniture placement, mood boards,  color, material,...</p>
+                                   <p class="description">We transform ideas into detailed designs. Our team creates precise layouts, 3D visualizations, and material selections to give you a clear picture of the final product.</p>
                                 </div> 
                                 <img src="assets/images/work-process/3.jpg" alt="Timeline">
                             </div>
                             <div>
                                 <div class="content">
                                    <span class="h5 title">CALCULATE</span>
-                                   <p class="description">Defining price, providing the price of items upon which the final product will be built. </p>
+                                   <p class="description">Before production begins, we carefully plan the technical and financial aspects. This includes material estimation, cost breakdown, measurements, and timelines. </p>
                                </div>
                                 <img src="assets/images/work-process/4.jpg" alt="Timeline">
                             </div>
                             <div>
                                 <div class="content">
                                    <span class="h5 title">EXECUTION</span>
-                                   <p class="description">Prepares details  of works,  construction, installations and finishing.</p>
+                                   <p class="description">This is where everything comes to life. Skilled craftsmen and modern techniques combine to build your furniture</p>
                                </div>
                                 <img src="assets/images/work-process/5.jpg" alt="Timeline">
                             </div>
                             <div>
                                 <div class="content">
-                                   <span class="h5 title">EVALUATION</span>
-                                   <p class="description">Surveys, interviews, walkthroughs, compare and comment on design works.</p>
+                                   <span class="h5 title">QUALITY CHECK</span>
+                                   <p class="description">Before final delivery, every piece undergoes strict quality inspection to ensure durability, finish, and perfection meet our high standards.</p>
                                </div>
                                <img src="assets/images/work-process/6.jpg" alt="Timeline">
                             </div>                            

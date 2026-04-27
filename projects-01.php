@@ -91,9 +91,9 @@
                         <div class="row apartment-image wow fadeInLeft delay-0-1s">
                             <a href="project-details.php"><img src="assets/images/projects-01/3.jpg" alt="Apartment"></a>
                             <div class="carousel-caption d-md-block">
-                                <span class="sub-title mb-16">HOUSE</span>
-                                <a href="project-details.php"><h5 class="mb-32">House Design Indochine Style </h5></a>
-                                <p class="mb-32">We have several strategic teaming arrangements  with experienced to complete full design services.</p>
+                                <span class="sub-title mb-16">CAFE</span>
+                                <a href="project-details.php"><h5 class="mb-32">Cafe Design Classic Style </h5></a>
+                                <p class="mb-32">Bring a touch of organic minimalism to your interior.</p>
                                 <div>
                                     <a href="project-details.php" class="hero-btn ">Read More
                                         <span class="btn-icon">
@@ -111,8 +111,8 @@
                         <div class="row apartment-image wow fadeInLeft delay-0-1s">
                             <a href="project-details.php"><img src="assets/images/projects-01/4.jpg" alt="Apartment"></a>
                             <div class="carousel-caption d-md-block">
-                                <span class="sub-title mb-16">VILLA</span>
-                                <a href="project-details.php"><h5 class="mb-32">Villa Design Modern Style </h5></a>
+                                <span class="sub-title mb-16">SOFA</span>
+                                <a href="project-details.php"><h5 class="mb-32">Sofa Cum Beds Modern Style </h5></a>
                                 <p class="mb-32">We have several strategic teaming arrangements  with experienced to complete full design services.</p>
                                 <div>
                                     <a href="project-details.php" class="hero-btn ">Read More

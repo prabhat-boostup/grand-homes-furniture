@@ -9,7 +9,7 @@
         <?php include("includes/mainNavbar.php") ?>
         
         <!-- Banner Section Start -->
-        <section class="banner-area pt-324 pb-250" style="background-image: url(assets/images/project-details/banner-2.jpg);">
+        <!-- <section class="banner-area pt-324 pb-250" style="background-image: url(assets/images/project-details/banner-2.jpg);">
             <div class="container text-center">
                 <div class="row align-items-center justify-content-between">
                     <div class="banner-content wow fadeInUp delay-0-2s">
@@ -23,7 +23,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- Banner Section End -->
 
         <!-- Architecture Projects Area start -->
